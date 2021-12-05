@@ -1,2 +1,2 @@
 # Cards-react
-Proyecto Carda para curso de React
+Proyecto Cards para curso de React
